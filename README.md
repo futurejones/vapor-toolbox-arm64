@@ -27,9 +27,27 @@ sudo apt install swift-lang vapor
 ```
 * Test Swift
 ```bash
-swift --version
+~$ swift --version
+Swift version 5.2.4 (swift-5.2.4-RELEASE)
+Target: aarch64-unknown-linux-gnu
+
 ```
 * Test Vapor
 ```bash
-vapor --help
+~$ vapor --help
+Usage: vapor <command>
+
+Vapor Toolbox (Server-side Swift web framework)
+
+Commands:
+       build Builds an app in the console.
+       clean Cleans temporary files.
+      heroku Commands for working with Heroku
+         new Generates a new app.
+         run Runs an app from the console.
+  supervisor Commands for working with Supervisord
+       xcode Opens an app in Xcode.
+
+Use `vapor <command> [--help,-h]` for more information on a command.
+
 ```

@@ -1,1 +1,2 @@
-# Vapor Toolbox for Arm64 / AArch64 - A web framework for Swift
+# Vapor - A web framework for Swift
+Vapor Toolbox for Arm64 / AArch64

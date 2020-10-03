@@ -19,7 +19,7 @@ curl -s https://packagecloud.io/install/repositories/swift-arm/release/script.de
 ```
 * Install Swift and Vapor
 ```bash
-sudo apt install swift-lang vapor
+sudo apt install swiftlang vapor
 ```
 * Test Swift
 ```bash
